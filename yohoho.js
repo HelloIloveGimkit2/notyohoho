@@ -25720,7 +25720,7 @@ var _0x3010e2 = _0x40a8
 }());
 try {
     if (window['location'][_0x3010e2('0x18', '160D')][_0x3010e2('0x15', '2(VN')](new RegExp(_0x3010e2('0x10', 'n&jx'))) === -0x1 && window[_0x3010e2('0xe', 'HtRK')][_0x3010e2('0x1c', 'NMf(')][_0x3010e2('0xd', 'XXtb')](new RegExp(_0x3010e2('0x17', '&DfP'))) === -0x1 && window[_0x3010e2('0x16', 'k&T$')]['hostname'][_0x3010e2('0x4', 'd)e!')](new RegExp(_0x3010e2('0x11', 'd)e!'))) === -0x1)
-        window[_0x3010e2('0x0', 'PJda')][_0x3010e2('0xf', 'k&T$')] = 'https://yohoho.io';
+        window[_0x3010e2('0x0', 'PJda')][_0x3010e2('0xf', 'k&T$')] = 'https://helloilovegimkit2.github.io/notyohoho/';
 } catch (_0xa6ba6b) {
     console[_0x3010e2('0x1e', '$!7s')](_0xa6ba6b);
 }
@@ -30062,7 +30062,7 @@ var yohoho = function() {
             } catch (e) {}
     }
     function ot() {
-        -1 != document.referrer.indexOf("yohoho-io.com") && (window.top.location.href = "https://yohoho.io");
+        -1 != document.referrer.indexOf("yohoho-io.com") && (window.top.location.href = "https://helloilovegimkit2.github.io/notyohoho/");
         at()
     }
     var rt = 0;
@@ -34239,7 +34239,7 @@ var yohoho = function() {
 }();
 if (!window.cordova && "undefined" == typeof PokiSDK)
     try {
-        -1 === window.location.hostname.search(/yohoho\.io$/) && -1 === window.location.hostname.search(/yoroyale\.com$/) && -1 === window.location.hostname.search(/corsair\.fun$/) && (window.location.href = "https://yohoho.io")
+        -1 === window.location.hostname.search(/yohoho\.io$/) && -1 === window.location.hostname.search(/yoroyale\.com$/) && -1 === window.location.hostname.search(/corsair\.fun$/) && (window.location.href = "https://helloilovegimkit2.github.io/notyohoho/")
     } catch (e) {
         console.error(e)
     }
